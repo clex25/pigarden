@@ -3,7 +3,7 @@ _Inspired by Reef-Pi_
 
 Home garden automation - measure the pH, temperature, humidity, atmospheric pressure, EC, soil temperature, soil moisture, light, and plant height using a custom sensor interface board which connects to raspberry pi GPIOs, and display/monitor it using a fancy web interface.
 
-####Sensors:
+#### Sensors:
 * Atlas scientific EZO pH
 * Atlas scientific EZO EC
 * atlas scientific EZO isolation boards (x2 - voltage isolation for ph and ec)
